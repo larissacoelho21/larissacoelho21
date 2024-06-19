@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Larissa Rodrigues. 
 Seja bem vindo(a) ao meu perfil ✨
 
-💻 Atualmente estou cursando **Desenvolvimento de Sistemas** indo cada vez mais atrás do meu crescimente profissional e pessoal!
+💻 Atualmente estou cursando **Desenvolvimento de Sistemas** indo cada vez mais atrás do meu crescimento profissional e pessoal!
 
 ### Status
 <a href="https://github.com/larissacoelho21/github-readme-stats">
